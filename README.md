@@ -7,3 +7,5 @@ Techniques applied: PCA, KMeans, Neural Networks, Regression- Linear and Polynom
 Additional Research: Research papers, Mechanical Engineering course books
 
 The Project Presentation and Python code has been added as a file in this repository.
+
+Project Supervisor: [Dr. Manish Aggarwal](https://sites.google.com/iitrpr.ac.in/mechanical/faculty-profiles-detailed/manish-agrawal)
